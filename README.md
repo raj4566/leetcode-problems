@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/raj4566/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0877-stone-game](https://github.com/raj4566/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/raj4566/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Math
@@ -45,4 +46,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raj4566/leetcode-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/raj4566/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
