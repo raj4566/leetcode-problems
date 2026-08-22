@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/raj4566/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/raj4566/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/raj4566/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0877-stone-game](https://github.com/raj4566/leetcode-problems/tree/main/0877-stone-game/) | Medium |
@@ -54,9 +55,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/raj4566/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/raj4566/leetcode-problems/tree/main/0015-3sum/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/raj4566/leetcode-problems/tree/main/0015-3sum/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/raj4566/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
