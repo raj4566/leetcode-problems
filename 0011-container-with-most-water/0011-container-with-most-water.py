@@ -1,5 +1,6 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
+        # using 2 pointers left and right 
         res =0
         l, r =0 , len(height)-1 
 
