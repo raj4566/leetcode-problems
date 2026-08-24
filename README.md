@@ -17,17 +17,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/raj4566/leetcode-problems/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/raj4566/leetcode-problems/tree/main/0191-number-of-1-bits/) | Easy |
+| [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/raj4566/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/raj4566/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/raj4566/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0877-stone-game](https://github.com/raj4566/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/raj4566/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0877-stone-game](https://github.com/raj4566/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raj4566/leetcode-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
@@ -54,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/raj4566/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,8 +67,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/raj4566/leetcode-problems/tree/main/0015-3sum/) | Medium |
+| [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/raj4566/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
