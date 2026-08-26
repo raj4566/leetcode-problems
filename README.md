@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0038-count-and-say](https://github.com/raj4566/leetcode-problems/tree/main/0038-count-and-say/) | Medium |
 | [0520-detect-capital](https://github.com/raj4566/leetcode-problems/tree/main/0520-detect-capital/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
