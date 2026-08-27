@@ -31,12 +31,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/raj4566/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0877-stone-game](https://github.com/raj4566/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raj4566/leetcode-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/raj4566/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/raj4566/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -77,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/raj4566/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
