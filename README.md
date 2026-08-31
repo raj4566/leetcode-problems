@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/raj4566/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/raj4566/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0877-stone-game](https://github.com/raj4566/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raj4566/leetcode-problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/raj4566/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/raj4566/leetcode-problems/tree/main/0015-3sum/) | Medium |
+| [0202-happy-number](https://github.com/raj4566/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,9 +88,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/raj4566/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/raj4566/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/raj4566/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
