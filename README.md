@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/raj4566/leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/raj4566/leetcode-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/raj4566/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/raj4566/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/raj4566/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/raj4566/leetcode-problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/raj4566/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/raj4566/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
