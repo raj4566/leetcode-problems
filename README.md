@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/raj4566/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0120-triangle](https://github.com/raj4566/leetcode-problems/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raj4566/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/raj4566/leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0198-house-robber](https://github.com/raj4566/leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/raj4566/leetcode-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/raj4566/leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/raj4566/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 ## Memoization
@@ -108,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/raj4566/leetcode-problems/tree/main/0062-unique-paths/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/raj4566/leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
