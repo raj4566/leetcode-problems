@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/raj4566/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/raj4566/leetcode-problems/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/raj4566/leetcode-problems/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/raj4566/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0120-triangle](https://github.com/raj4566/leetcode-problems/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raj4566/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/raj4566/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/raj4566/leetcode-problems/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/raj4566/leetcode-problems/tree/main/0027-remove-element/) | Easy |
 | [0202-happy-number](https://github.com/raj4566/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
