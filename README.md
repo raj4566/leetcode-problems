@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/raj4566/leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/raj4566/leetcode-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/raj4566/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/raj4566/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/raj4566/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/raj4566/leetcode-problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raj4566/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/raj4566/leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/raj4566/leetcode-problems/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/raj4566/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0877-stone-game](https://github.com/raj4566/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/raj4566/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/raj4566/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/raj4566/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -127,4 +130,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raj4566/leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/raj4566/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
