@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/raj4566/leetcode-problems/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/raj4566/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/raj4566/leetcode-problems/tree/main/0045-jump-game-ii/) | Medium |
+| [0056-merge-intervals](https://github.com/raj4566/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/raj4566/leetcode-problems/tree/main/0057-insert-interval/) | Medium |
 | [0120-triangle](https://github.com/raj4566/leetcode-problems/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raj4566/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/raj4566/leetcode-problems/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/raj4566/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -135,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/raj4566/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/raj4566/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
