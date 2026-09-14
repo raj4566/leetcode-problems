@@ -11,3 +11,5 @@ class Solution:
             else :
                 output .append([start , end ])
         return output
+
+        #merge intervals easy 
