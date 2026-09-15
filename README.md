@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/raj4566/leetcode-problems/tree/main/0038-count-and-say/) | Medium |
+| [0139-word-break](https://github.com/raj4566/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0520-detect-capital](https://github.com/raj4566/leetcode-problems/tree/main/0520-detect-capital/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/raj4566/leetcode-problems/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raj4566/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/raj4566/leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/raj4566/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/raj4566/leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/raj4566/leetcode-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/raj4566/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0120-triangle](https://github.com/raj4566/leetcode-problems/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raj4566/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0139-word-break](https://github.com/raj4566/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/raj4566/leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/raj4566/leetcode-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/raj4566/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -107,12 +110,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/raj4566/leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/raj4566/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0202-happy-number](https://github.com/raj4566/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/raj4566/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/raj4566/leetcode-problems/tree/main/0139-word-break/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,4 +146,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/raj4566/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/raj4566/leetcode-problems/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/raj4566/leetcode-problems/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
