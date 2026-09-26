@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/raj4566/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/raj4566/leetcode-problems/tree/main/0038-count-and-say/) | Medium |
 | [0139-word-break](https://github.com/raj4566/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0520-detect-capital](https://github.com/raj4566/leetcode-problems/tree/main/0520-detect-capital/) | Easy |
@@ -154,4 +155,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/raj4566/leetcode-problems/tree/main/0139-word-break/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/raj4566/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/raj4566/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
