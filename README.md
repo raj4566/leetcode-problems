@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/raj4566/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/raj4566/leetcode-problems/tree/main/0038-count-and-say/) | Medium |
+| [0049-group-anagrams](https://github.com/raj4566/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0139-word-break](https://github.com/raj4566/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0520-detect-capital](https://github.com/raj4566/leetcode-problems/tree/main/0520-detect-capital/) | Easy |
 ## Divide and Conquer
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/raj4566/leetcode-problems/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/raj4566/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/raj4566/leetcode-problems/tree/main/0045-jump-game-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/raj4566/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/raj4566/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/raj4566/leetcode-problems/tree/main/0057-insert-interval/) | Medium |
 | [0120-triangle](https://github.com/raj4566/leetcode-problems/tree/main/0120-triangle/) | Medium |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/raj4566/leetcode-problems/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/raj4566/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/raj4566/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 ## Greedy
@@ -110,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/raj4566/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/raj4566/leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/raj4566/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0202-happy-number](https://github.com/raj4566/leetcode-problems/tree/main/0202-happy-number/) | Easy |
