@@ -7,3 +7,4 @@ class Solution:
             anagram_map[sorted_word].append(word)
         
         return list(anagram_map.values())
+        
