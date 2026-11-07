@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/raj4566/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/raj4566/leetcode-problems/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/raj4566/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/raj4566/leetcode-problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0139-word-break](https://github.com/raj4566/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0520-detect-capital](https://github.com/raj4566/leetcode-problems/tree/main/0520-detect-capital/) | Easy |
 ## Divide and Conquer
