@@ -12,3 +12,5 @@ class Solution:
             else:
                 stack.append(c)
         return True if not stack else False
+
+    #tried 4 times and did 
