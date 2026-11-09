@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/raj4566/leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/raj4566/leetcode-problems/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/raj4566/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/raj4566/leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/raj4566/leetcode-problems/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/raj4566/leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/raj4566/leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/raj4566/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/raj4566/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/raj4566/leetcode-problems/tree/main/0704-binary-search/) | Easy |
@@ -172,4 +174,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/raj4566/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/raj4566/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
