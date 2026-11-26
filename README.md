@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/raj4566/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/raj4566/leetcode-problems/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/raj4566/leetcode-problems/tree/main/0213-house-robber-ii/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/raj4566/leetcode-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/raj4566/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/raj4566/leetcode-problems/tree/main/0704-binary-search/) | Easy |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/raj4566/leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/raj4566/leetcode-problems/tree/main/0139-word-break/) | Medium |
 | [0202-happy-number](https://github.com/raj4566/leetcode-problems/tree/main/0202-happy-number/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/raj4566/leetcode-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/raj4566/leetcode-problems/tree/main/0268-missing-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -180,4 +182,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/raj4566/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/raj4566/leetcode-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
